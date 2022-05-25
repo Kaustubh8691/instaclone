@@ -1,0 +1,61 @@
+.card{
+    width: 30rem;
+    height: 51rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    margin: 5px;
+    margin-top: 32px;
+    margin-left: 72vh;
+    margin-bottom: 10px;
+  }
+  .wrapper {background: lightgray;
+    padding-bottom: 50px;}
+  
+  img.card-image {
+    height: 84vh;
+}
+  .name{
+    margin-left: 10px;
+    text-align: start;
+  }
+  .name h3:hover{
+    cursor: pointer;
+  
+  }
+  .more{
+    font-size: 1.7rem;
+    margin-right: 10px;
+  
+  }
+  
+  .more:hover{
+    cursor: pointer;
+  
+  }
+  .headr{
+    display: flex;
+    justify-content: space-between;
+  }
+  .foot{
+    display: flex;
+    justify-content: space-between;
+    /* margin-left: 6px; */
+    /* margin-right: 6px; */
+    margin: 0 6px 0 6px;
+    align-items: center;
+  }
+  .foot span{
+    font-size: 2rem;
+    margin-right: 5px;
+  }
+  .foot span:hover{
+    cursor: pointer;
+  }
+  .like-content{
+    margin-left: 7px;
+    text-align: start;
+  }
+  .content{
+    padding: 3px;
+    font-weight: bold;
+  }

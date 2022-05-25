@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.site-container{
+  text-align: center;
+}
+html {
+  font-size: 14px;
+}
+body {
+  line-height: 1.5;
+  color: black;
+  margin:0;
+} 
+.container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+}
+nav.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 5rem;
+  background-color: whitesmoke;
+
+}
+.camera{
+  margin-right: 6rem;
+  display: flex;
+  flex-direction: row;
+
+}
+.camera:hover{
+  cursor: pointer;
+
+}
+h1{
+  display: flex;
+  flex-direction: row;
+  margin-left: 6rem;
+  cursor: pointer;
+  color: darkcyan;
+}
+@media only screen and (max-width:720px){
+  .camera{
+    margin-right: 3rem;
+
+  }
+  h1{
+    margin-left: 3rem;
+
+  }
+}
+
+
+

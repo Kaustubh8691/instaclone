@@ -1,0 +1,26 @@
+{
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":1000,
+            "description": "Just looking for you #king",
+            "PostImage": "lion.jpg",
+            "date":" new Date()"
+            },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":1524,
+            "description": "love it #car #justthink",
+            "PostImage": "car.jpg",
+            "date": "new Date()"
+            },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":3000,
+            "description": "wildlife pease #wildlife #photography",
+            "PostImage": "ele.jpg",
+            "date": "new Date()"
+            }
+            ]
+}

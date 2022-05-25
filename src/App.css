@@ -1,0 +1,134 @@
+/* *{
+    margin:0;
+    padding: 0;
+    }
+    .wrapper{
+    width:100%;
+    height:100%;
+    }
+    .site-container{
+      text-align: center;
+    width:100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    }
+    
+    html {
+      font-size: 14px;
+    font-size: 1vw;
+    }
+    body {
+      line-height: 1.5;
+      color: black;
+      margin:0;
+    }  
+    
+    .header1{
+    width:100%;
+    height:10%;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow:2px 2px 2px 2px rgb(84, 84, 84);
+    }
+    
+    .header1 img{
+    width:5%;
+    height:5%;
+    }
+    
+    .section1{
+    display: flex;
+    flex-direction: column;
+    width:50%;
+    height: 80%;
+    margin-top:2%;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .card{
+    display:flex;
+    flex-direction: column;
+    box-shadow: 1px 1px 1px 1px rgb(52, 51, 51);
+    border-radius: 5px;
+    width:100%;
+    margin-bottom: 20px;
+    align-items: flex-start;
+    }
+    
+    .section-nav{
+    display: flex;
+    width:100%;
+    justify-content: space-between;
+    align-items: center;
+    }
+    
+    .section-nav div{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: space-around;
+    padding-left: 10px;
+    }
+    
+    .card img{
+    width:100%;
+    height:100%;
+    }
+    
+    .Details{
+    display: flex;
+    width:100%;
+    justify-content: space-between;
+    align-items: center;
+    }
+    
+    .likeCommentBar{
+    font-size: 2rem;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 10px;
+    }
+    .likeCommentBar div{
+    padding-right: 10px;
+    }
+    
+    .dots{
+    font-size: 2rem;
+    padding-left: 5px;
+    margin-right: 5px;
+    }
+    
+    .profileName h3{
+    margin-top: 10px;
+    margin-bottom:5px;
+    }
+    
+    .profileName p, .numberOfLikes{
+    color: rgb(169, 161, 161);
+    font-weight: bold;
+    margin-bottom:10px;
+    }
+    
+    .describe{
+    word-break: break-word;
+    padding:10px;
+    }
+    .headr {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+    }
+    .cardimage {width: 100%;height: 400px;}
+    
+    .StartPage{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    } */
